@@ -1,0 +1,7 @@
+.text1{
+  color: #3e3e3e;
+  border: 2px solid black;
+  /* it won't work as internal css is of border is applied so that is more prefer than it */
+  background-color: blueviolet;
+  border-radius: 10px;
+}
