@@ -1,0 +1,24 @@
+body {
+  background-color: #3e3e3e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: azure;
+}
+.Header {
+  border: 2px solid dodgerblue;
+  width: 40vw;
+}
+.heading {
+  border: 2px solid dodgerblue;
+  width: 40vw;
+}
+.paragraph-div{
+  width: 40vw;
+  border: 2px solid dodgerblue;
+ 
+}
+.footer{
+  border: 2px solid dodgerblue;
+  width: 40vw;
+}
